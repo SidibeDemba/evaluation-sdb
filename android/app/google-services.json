@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685915328284",
+    "project_id": "evaluation-sdb",
+    "storage_bucket": "evaluation-sdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685915328284:android:80784875ba0db25dc5f4d9",
+        "android_client_info": {
+          "package_name": "com.example.demba_sisibe_evaluation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-gRv0yyQYjOObLlTpeHVt3FaksMvXjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685915328284:android:db1764a4e7b510c4c5f4d9",
+        "android_client_info": {
+          "package_name": "com.example.uuniversite_qr_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-gRv0yyQYjOObLlTpeHVt3FaksMvXjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
